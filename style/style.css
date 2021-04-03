@@ -56,13 +56,13 @@
 }
 body{
  width:100%;
- padding-left:50%;
  margin:0px;
 }
  
 #main{
+	
  width:800px;
- margin-left:-400px;
+ margin:0 auto;
  background-image: url(images/fon_bg.jpg);
  background-repeat: repeat-y;
 }
